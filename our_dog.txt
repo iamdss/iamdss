@@ -1,3 +1,2 @@
 Our dog's name is Riffel.
-His color is white.
-He is cool.
+His color is white
